@@ -1,142 +1,132 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=🔧+ANDRÉ+SILVA+|+Cyberpunk+Developer;💾+SQL+%7C+Node.js+%7C+Delphi+%7C+IA;⚡+Logic+%7C+Automation+%7C+Performance" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-
-### 🌐 NETWORK PROFILE
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=1a1a2e)](https://www.linkedin.com/in/andre-de-souza-b7829366)
-[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=1a1a2e)](mailto:andredesouzasilva@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=1a1a2e)](https://github.com/andre-silva-tech)
+  
+  # 🔧 ANDRÉ SILVA
+  ## Analista de Negócio | Desenvolvedor Full Stack | Especialista em SQL & Lógica
+  
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=1a1a2e)](https://www.linkedin.com/in/andre-de-souza-b7829366)
+  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=1a1a2e)](mailto:andredesouzasilva@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=1a1a2e)](https://github.com/andre-silva-tech)
 
 </div>
 
 ---
 
-## 🔮 ABOUT_SYSTEM
-IDENTITY INITIALIZED NAME: André Silva CLASS: Analyst + Developer (Hybrid Mode) SPECIALIZATION: SQL Logic | Backend APIs | Data Modeling | Automation STATUS: ACTIVE ✓ EXPERIENCE: 10+ years | Tech & Business Analysis
+## 🌐 SOBRE_SISTEMA
+IDENTIDADE INICIALIZADA NOME: André Silva CLASSE: Analista + Desenvolvedor (Modo Híbrido) ESPECIALIZAÇÃO: SQL & Lógica | APIs Backend | Modelagem de Dados | Automação STATUS: ATIVO ✓ EXPERIÊNCIA: 10+ anos | Análise Técnica & Desenvolvimento
 
 ---
 
-## 💎 CORE_SKILLS
+## 💎 COMPETÊNCIAS_PRINCIPAIS
 
-<div align="center">
+### 🗄️ BACKEND & DESENVOLVIMENTO
 
-### 🗄️ BACKEND & DATABASES
-<img src="https://skillicons.dev/icons?i=nodejs,delphi,cs,javascript,typescript&perline=5" />
-
-**Node.js** • **Delphi** • **C#/.NET** • **JavaScript** • **TypeScript**
-
----
-
-### 📊 DATA & SQL
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=3" />
-
-**SQL Server** • **T-SQL** • **PL/SQL** • **Query Optimization** • **Data Modeling**
+| Tecnologia | Nível | Descrição |
+|---|---|---|
+| **Node.js** | ⭐⭐⭐⭐⭐ | APIs REST, servidores escaláveis |
+| **Delphi** | ⭐⭐⭐⭐ | Sistemas desktop, lógica complexa |
+| **C# / .NET** | ⭐⭐⭐⭐ | Aplicações Windows, integração |
+| **JavaScript** | ⭐⭐⭐⭐⭐ | Frontend & backend, manipulação DOM |
+| **TypeScript** | ⭐⭐⭐⭐ | Type-safe, grandes projetos |
 
 ---
 
-### 🛠️ TOOLS & PLATFORMS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=5" />
+### 📊 BANCO DE DADOS & SQL
 
-**Git/GitHub** • **VS Code** • **Postman** • **DBeaver** • **Docker**
-
----
-
-### 🧠 SPECIALTIES
-
-| Expertise | Level |
-|-----------|-------|
-| SQL Architecture & Optimization | ████████░ 90% |
-| Business Analysis & Requirements | ████████░ 85% |
-| APIs REST Development | ███████░░ 75% |
-| Logic & Algorithms | ████████░ 85% |
-| Automation & Scripts | ███████░░ 80% |
-| AI Integration & Automation | ███████░░ 75% |
-
-</div>
+| Especialidade | Nível | Descrição |
+|---|---|---|
+| **SQL Server** | ⭐⭐⭐⭐⭐ | T-SQL, stored procedures, índices |
+| **Modelagem** | ⭐⭐⭐⭐⭐ | Design de banco, normalização |
+| **Otimização** | ⭐⭐⭐⭐⭐ | Query performance, execução |
+| **PostgreSQL** | ⭐⭐⭐⭐ | PL/SQL, JSON, funções avançadas |
+| **MySQL** | ⭐⭐⭐⭐ | Scripts, backups, manutenção |
 
 ---
 
-## 🎓 CERTIFICATIONS & EDUCATION
-╔═══════════════════════════════════════════════════════════╗ ║ ENIAC - Tecnólogo em Gestão da Tecnologia da Informação ║ ║ 📅 2011 - 2013 ║ ╚═══════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════╗ ║ ENIAC - Pós-graduação em Gestão de Projetos ║ ║ 📅 2019 - 2020 ║ ╚═══════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════╗ ║ PMG Academy - ITSMF Foundation ║ ║ Information Technology Service Management ║ ╚═══════════════════════════════════════════════════════════╝
+### 🛠️ FERRAMENTAS & PLATAFORMAS
+Git • GitHub • VS Code • Postman • DBeaver • Visual Studio • Docker SQL Server Management Studio • Excel Avançado • Confluence • Jira
 
 ---
 
-## 📈 SYSTEM_STATISTICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-silva-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00FF00&title_color=00FF00&icon_color=00FF00&border_color=00FF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-silva-tech&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00FF00&title_color=00FF00&border_color=00FF00&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andre-silva-tech&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00)
-
-</div>
+## 📈 MATRIZ_EXPERTISE
+┌─────────────────────────────────────────────┐ │ SQL & Otimização de Query ████████░ 90% │ Análise de Negócio & Requisitos ████████░ 85% │ Desenvolvimento de APIs REST ███████░░ 75% │ Lógica & Algoritmos ████████░ 85% │ Automação & Scripts ███████░░ 80% │ Integração de IA & Automação ███████░░ 75% │ Gestão de Projetos ███████░░ 78% └─────────────────────────────────────────────┘
 
 ---
 
-## 🎯 CURRENT_OBJECTIVES
+## 🎓 FORMAÇÃO & CERTIFICAÇÕES
 
-- 🔬 Aprofundando em **SQL avançado** e otimização de performance
-- 🚀 Desenvolvendo **APIs escaláveis** com Node.js
-- 🤖 Explorando **IA e automação** de processos
+### 📚 EDUCAÇÃO SUPERIOR
+
+**Tecnólogo em Gestão da Tecnologia da Informação**
+- Instituição: **ENIAC**
+- Período: 2011 - 2013
+- Foco: Gestão de TI, infraestrutura, segurança
+
+**Pós-graduação em Gestão de Projetos**
+- Instituição: **ENIAC**
+- Período: 2019 - 2020
+- Foco: PMBOK, metodologias ágeis, liderança
+
+### 🏆 CERTIFICAÇÕES PROFISSIONAIS
+
+**Information Technology Service Management Foundation (ITSMF)**
+- Instituição: PMG Academy
+- Validação: Práticas de ITSM e service management
+
+---
+
+## 🎯 OBJETIVOS_ATUAIS
+
+- 🔬 Aprofundar em **SQL avançado** e otimização de performance extrema
+- 🚀 Desenvolvendo **APIs escaláveis e robustas** com Node.js
+- 🤖 Explorando **IA e automação** de processos corporativos
 - 📚 Construindo portfólio com **projetos de impacto real**
-- 🔗 Conectando **análise de negócio** com execução técnica
+- 🔗 Conectando **análise de negócio** com **execução técnica**
+- 🧠 Dominando **lógica de programação** em profundidade
 
 ---
 
-## 💬 PHILOSOPHY
+## 💬 FILOSOFIA
 
-> _"Code is logic. Logic solves problems. Problems are just puzzles waiting to be understood."_
+> _"Código é lógica. Lógica resolve problemas. Problemas são apenas quebra-cabeças esperando ser compreendidos."_
 
-> _"Technology serves business. Business creates value. Value transforms reality."_
+> _"Tecnologia serve negócio. Negócio cria valor. Valor transforma realidade."_
 
----
-
-## 📡 SIGNAL_TRANSMISSION
-
-<div align="center">
-
-### 🤝 Let's Connect?
-
-Aberto para:
-- 💼 **Projetos & Consultoria**
-- 🎓 **Mentorias & Conhecimento**
-- 🚀 **Colaborações & Inovação**
-- 💡 **Desafios & Problemas Complexos**
-
-**Envie uma mensagem:**
-
-[![Gmail](https://img.shields.io/badge/Send_Email-FF6B6B?style=for-the-badge)](mailto:andredesouzasilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Talk-0077B5?style=for-the-badge)](https://www.linkedin.com/in/andre-de-souza-b7829366)
-
-</div>
+> _"Performance não é acaso. É compreensão profunda dos dados e da arquitetura."_
 
 ---
 
-<div align="center">
+## 📡 QUER_CONECTAR?
 
-### 🌌 TERMINAL_SIGNATURE
-┌─────────────────────────────────────────────────┐ │ andre-silva-tech@github.com │ │ Status: ONLINE │ │ Mode: FULL STACK ANALYSIS & DEVELOPMENT │ │ Last Update: 2024 │ │ Availability: Ready for new connections │ └─────────────────────────────────────────────────┘
+Estou aberto para:
+- 💼 **Projetos & Consultoria** (SQL, APIs, Automação)
+- 🎓 **Mentorias & Compartilhamento** de conhecimento
+- 🚀 **Colaborações & Inovação** em problemas complexos
+- 💡 **Desafios técnicos** que exigem lógica profunda
 
+### 📨 ENTRE_EM_CONTATO
 
-![Profile Views](https://komarev.com/ghpvc/?username=andre-silva-tech&color=00FF00&style=flat-square&label=PROFILE_VIEWS)
+**Email:** andredesouzasilva@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/andre-de-souza-b7829366  
+**GitHub:** https://github.com/andre-silva-tech
 
-</div>
+---
+
+## 🌌 ASSINATURA_TERMINAL
+╔════════════════════════════════════════════════════╗ ║ andre-silva-tech@github.com ║ ║ Status: ONLINE ✓ ║ ║ Modo: ANÁLISE FULL STACK + DESENVOLVIMENTO ║ ║ Última Atualização: 2024 ║ ║ Disponibilidade: Pronto para novas conexões ║ ╚════════════════════════════════════════════════════╝
+
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=andre-silva-tech&color=00FF00&style=flat-square&label=VISUALIZACOES)
 
 ---
 
 <p align="center">
-  <i>"Cada linha de código é uma decisão. Cada decisão é uma oportunidade. Cada oportunidade é uma solução."</i>
+  <i>"Cada linha de código é uma decisão.<br/>
+  Cada decisão é uma oportunidade.<br/>
+  Cada oportunidade é uma solução."</i>
 </p>
-✨ Características deste README:
-✅ Dark mode cyberpunk com cores neon (#00FF00 verde hacker) ✅ Typing SVG animado no topo ✅ Skills interativos com ícones visuais ✅ Tabela de expertise mostrando níveis ✅ GitHub stats customizado com tema dark ✅ Estrutura terminal/hacker com boxes ASCII ✅ Badges profissionais com cores cyberpunk ✅ Call-to-action claro (Let's Connect) ✅ Certificações destacadas em boxes ✅ Filosofia/mindset personalizado ✅ Muito mais pessoal que IA genérica
+
+<p align="center">
+  <strong>Desenvolvendo soluções que impactam negócios e transformam realidades.</strong>
+</p>
+✨ Mudanças principais:
+✅ 100% em português (exceto badges que vêm de serviços externos) ✅ Tabelas melhor formatadas para Skills e Expertise ✅ Certificações em texto limpo sem ASCII quebrado ✅ Alignamento perfeito em todas as seções ✅ Terminal Signature centralizado e alinhado ✅ Ícones de tecnologia mais simples e funcionais ✅ Foco em SQL e Lógica como destaque ✅ Design cyberpunk mantido mas mais limpo
 
