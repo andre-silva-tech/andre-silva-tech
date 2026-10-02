@@ -43,12 +43,21 @@ IDENTIDADE INICIALIZADA NOME: André Silva CLASSE: Analista + Desenvolvedor (Mod
 ---
 
 ### 🛠️ FERRAMENTAS & PLATAFORMAS
-Git • GitHub • VS Code • Postman • DBeaver • Visual Studio • Docker SQL Server Management Studio • Excel Avançado • Confluence • Jira
+• Git • GitHub • VS Code • Postman • DBeaver • Visual Studio 
+• Docker SQL Server Management Studio • Excel Avançado • Confluence • Jira
 
 ---
 
 ## 📈 MATRIZ_EXPERTISE
-┌─────────────────────────────────────────────┐ │ SQL & Otimização de Query ████████░ 90% │ Análise de Negócio & Requisitos ████████░ 85% │ Desenvolvimento de APIs REST ███████░░ 75% │ Lógica & Algoritmos ████████░ 85% │ Automação & Scripts ███████░░ 80% │ Integração de IA & Automação ███████░░ 75% │ Gestão de Projetos ███████░░ 78% └─────────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐ 
+│ SQL & Otimização de Query ████████░ 90%       │ 
+│ Análise de Negócio & Requisitos ████████░ 85% │
+│ Desenvolvimento de APIs REST ███████░░ 75%    │
+│ Lógica & Algoritmos ████████░ 85%             │  
+│ Automação & Scripts ███████░░ 80%             │ 
+│ Integração de IA & Automação ███████░░ 75%    │
+│ Gestão de Projetos ███████░░ 78%              │
+└───────────────────────────────────────────────┘
 
 ---
 
@@ -112,7 +121,16 @@ Estou aberto para:
 ---
 
 ## 🌌 ASSINATURA_TERMINAL
-╔════════════════════════════════════════════════════╗ ║ andre-silva-tech@github.com ║ ║ Status: ONLINE ✓ ║ ║ Modo: ANÁLISE FULL STACK + DESENVOLVIMENTO ║ ║ Última Atualização: 2024 ║ ║ Disponibilidade: Pronto para novas conexões ║ ╚════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════╗ 
+║ andre-silva-tech@github.com 			     ║		
+║ 						     ║
+║ Status: ONLINE✓									 ║	                                    
+║ Modo: ANÁLISE FULL STACK + DESENVOLVIMENTO         ║ 
+║ Última Atualização: 2024                           ║
+║      						     ║	
+║ Disponibilidade: Pronto para novas conexões 	     ║	
+║ 						     ║	
+╚════════════════════════════════════════════════════╝
 
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=andre-silva-tech&color=00FF00&style=flat-square&label=VISUALIZACOES)
 
